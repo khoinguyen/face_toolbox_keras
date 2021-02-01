@@ -13,7 +13,7 @@ FILE_PATH = Path(__file__).parent.resolve()
 
 import sys
 sys.path.append(str(FILE_PATH.parent.parent.parent.resolve()))
-from utils.umeyama import umeyama
+from face_toolbox_keras.utils.umeyama import umeyama
 
 class FaceVerifier():
     """

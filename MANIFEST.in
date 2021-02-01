@@ -1,0 +1,9 @@
+include face_toolbox_keras/models/detector/FAN/*.h5
+include face_toolbox_keras/models/detector/ELG/*.h5
+include face_toolbox_keras/models/detector/s3fd/*.h5
+include face_toolbox_keras/models/detector/mtcnn/*.npy
+include face_toolbox_keras/models/estimator/insightface/*.h5
+include face_toolbox_keras/models/parser/BiSeNet/*.h5
+include face_toolbox_keras/models/verifier/face_evoLVe_ir50/*.h5
+include face_toolbox_keras/models/verifier/facenet/*.h5
+include face_toolbox_keras/models/verifier/insightface/*.h5
